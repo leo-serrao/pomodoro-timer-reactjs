@@ -8,7 +8,11 @@ The Pomodoro technique is a method used to study, work, or what you need to do, 
 
  In this project i developed a timer where you can especify the task you are working on and the time of your cycle, you can even see your history of cycles, how long ago that cycle was ad if it was completed, interrupted or if it's on progress. I used **ReactJS + Vite + TypeScript** , the project was really helpfull so i could lern more about React Hooks like **useState**, **useEffect**, **useReduce**, **useContext**, **useForm**, and other React techniques.
  
- If you're tying the App follow the steps bellow ⬇⬇
+ 
+ If you want to try the application: https://pomodorotimerreact.vercel.app/
+ 
+ 
+ If you're tying the App on your machine follow the steps bellow ⬇⬇
 
 1. Install dependencies
 ```jsx
